@@ -179,13 +179,8 @@ h2.title {
 
 /* Work Section */
 
-.my-form label.active {
-    color: #fff;
-}
 
-.my-form:focus {
-    color: #fff;
-}
+/* Contact Section */
 
 #contact {
     border-top: 2px solid rgb(197, 22, 183);
@@ -200,6 +195,17 @@ h2.title {
     background-color: #fff;
     color: #000;
 }
+
+.my-form label.active {
+    color: #fff;
+}
+
+.my-form:focus {
+    color: #fff;
+}
+
+
+/* Contact Section */
 
 
 /* Footer Section */
