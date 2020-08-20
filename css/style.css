@@ -15,11 +15,45 @@ main {
     background: #000;
 }
 
-
-/* Global Section */
+.bord {
+    height: 3px;
+    width: 60px;
+    background-color: rgb(197, 22, 183);
+    position: relative;
+    margin: 20px 0 20px 0;
+    display: inline-block;
+}
 
 .black-color {
     background-color: #000 !important;
+}
+
+.icons {
+    color: #fff;
+    display: block;
+    font-size: 35px;
+    list-style: none;
+}
+
+.white-icons>a {
+    color: #fff;
+}
+
+.dark-icons>a {
+    color: #000;
+    list-style: none;
+    font-size: 30px;
+}
+
+
+/* Global Section */
+
+
+/* Home Section */
+
+#home {
+    background: url('../img/img-2.jpg') no-repeat fixed -1px;
+    height: 550px;
 }
 
 .brand-title {
@@ -47,11 +81,6 @@ nav {
     font-size: 18px;
 }
 
-#home {
-    background: url('../img/img-2.jpg') no-repeat fixed -1px;
-    height: 550px;
-}
-
 .bg-title {
     font-size: 300%;
 }
@@ -62,33 +91,10 @@ nav {
 }
 
 
+/* Home Section */
+
+
 /* About Section */
-
-.icons {
-    color: #fff;
-    display: block;
-    font-size: 35px;
-    list-style: none;
-}
-
-.white-icons>a {
-    color: #fff;
-}
-
-.dark-icons>a {
-    color: #000;
-    list-style: none;
-    font-size: 30px;
-}
-
-.bord {
-    height: 3px;
-    width: 60px;
-    background-color: rgb(197, 22, 183);
-    position: relative;
-    margin: 20px 0 20px 0;
-    display: inline-block;
-}
 
 #about {
     border-top: 1px solid rgb(197, 22, 183);
