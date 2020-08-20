@@ -1,3 +1,5 @@
+/* Global Section  */
+
 * {
     padding: 0px;
     margin: 0px;
@@ -7,6 +9,14 @@
 body {
     font-family: 'Baloo Tamma 2', cursive;
 }
+
+body,
+main {
+    background: #000;
+}
+
+
+/* Global Section */
 
 .black-color {
     background-color: #000 !important;
@@ -51,6 +61,9 @@ nav {
     font: Arial 50px;
 }
 
+
+/* About Section */
+
 .icons {
     color: #fff;
     display: block;
@@ -75,11 +88,6 @@ nav {
     position: relative;
     margin: 20px 0 20px 0;
     display: inline-block;
-}
-
-body,
-main {
-    background: #000;
 }
 
 #about {
