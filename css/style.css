@@ -116,6 +116,9 @@ nav {
 
 /* About Section */
 
+
+/* Technology Section */
+
 #technologies {
     border-top: 1px solid rgb(197, 22, 183);
     background: url(../img/img-1.jpg) fixed -15%;
@@ -125,6 +128,9 @@ nav {
 #technologies i {
     font-size: 55px;
 }
+
+
+/* Technology Section */
 
 #works {
     border-top: 1px solid rgb(197, 22, 183);
