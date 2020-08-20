@@ -173,9 +173,7 @@ h2.title {
 }
 
 
-/* .mask {
-    background: #000;
-} */
+/* Footer Section */
 
 #footer {
     border-top: 3px solid rgb(197, 22, 183);
@@ -202,3 +200,6 @@ h2.title {
 #copyright {
     font-size: 18px;
 }
+
+
+/* Footer Section */
